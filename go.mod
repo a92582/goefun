@@ -1,4 +1,4 @@
-module github.com/a92582/goefun
+module github.com/duolabmeng6/goefun
 
 go 1.20
 
